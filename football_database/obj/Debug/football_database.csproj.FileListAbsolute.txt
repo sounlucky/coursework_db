@@ -1,0 +1,16 @@
+C:\Users\inluckie\source\repos\football_database\football_database\bin\Debug\football_database.exe.config
+C:\Users\inluckie\source\repos\football_database\football_database\bin\Debug\football_database.exe
+C:\Users\inluckie\source\repos\football_database\football_database\bin\Debug\football_database.pdb
+C:\Users\inluckie\source\repos\football_database\football_database\obj\Debug\MainWindow.g.cs
+C:\Users\inluckie\source\repos\football_database\football_database\obj\Debug\App.g.cs
+C:\Users\inluckie\source\repos\football_database\football_database\obj\Debug\football_database_MarkupCompile.cache
+C:\Users\inluckie\source\repos\football_database\football_database\obj\Debug\football_database_MarkupCompile.lref
+C:\Users\inluckie\source\repos\football_database\football_database\obj\Debug\MainWindow.baml
+C:\Users\inluckie\source\repos\football_database\football_database\obj\Debug\football_database.g.resources
+C:\Users\inluckie\source\repos\football_database\football_database\obj\Debug\football_database.Properties.Resources.resources
+C:\Users\inluckie\source\repos\football_database\football_database\obj\Debug\football_database.csproj.GenerateResource.cache
+C:\Users\inluckie\source\repos\football_database\football_database\obj\Debug\football_database.csproj.CoreCompileInputs.cache
+C:\Users\inluckie\source\repos\football_database\football_database\obj\Debug\football_database.exe
+C:\Users\inluckie\source\repos\football_database\football_database\obj\Debug\football_database.pdb
+C:\Users\inluckie\source\repos\football_database\football_database\bin\Debug\football_database.exe.CodeAnalysisLog.xml
+C:\Users\inluckie\source\repos\football_database\football_database\bin\Debug\football_database.exe.lastcodeanalysissucceeded
